@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewTan517
 - 👀 I’m interested in VTubers
-- 🌱 I’m currently learning how to use github
+- 🌱 I’m currently learning how to use GitHub
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me andrewtan517@gmail.com
 - 😄 Pronouns: He/Him
